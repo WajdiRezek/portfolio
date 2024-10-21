@@ -1,0 +1,27 @@
+li{
+    display: inline;
+}
+body {
+    font-family: 'Roboto';font-size: 15px;
+    
+    background-image:url(bkg.jpg)}
+    
+    nav{
+        margin-left: 40%;
+        padding-bottom: 10%;
+        padding-top: 5%;
+        
+    }
+    a{
+        font-size: 27px;
+        color:black;
+        font-weight: bold;
+        text-decoration: none;
+        margin-left: 37px;
+        
+    }
+    a:hover{
+        color:red;
+        font-size: 32px;
+    }
+
